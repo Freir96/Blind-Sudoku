@@ -18,6 +18,7 @@
             android:text="0"
             android:textSize="64dp"
             android:textColor="#FFFFFF"
+            android:layout_margin="5dp"
             android:layout_weight="1" />
 
         <Button
@@ -29,6 +30,7 @@
             android:text="0"
             android:textSize="64dp"
             android:textColor="#FFFFFF"
+            android:layout_margin="5dp"
             android:layout_weight="1"/>
     </LinearLayout>
 
@@ -47,6 +49,7 @@
             android:text="0"
             android:textSize="64dp"
             android:textColor="#FFFFFF"
+            android:layout_margin="5dp"
             android:layout_weight="1" />
 
         <Button
@@ -58,6 +61,7 @@
             android:text="0"
             android:textSize="64dp"
             android:textColor="#FFFFFF"
+            android:layout_margin="5dp"
             android:layout_weight="1"/>
     </LinearLayout>
 
@@ -76,6 +80,7 @@
             android:text="0"
             android:textSize="64dp"
             android:textColor="#FFFFFF"
+            android:layout_margin="5dp"
             android:layout_weight="1" />
 
         <Button
@@ -87,6 +92,7 @@
             android:text="0"
             android:textSize="64dp"
             android:textColor="#FFFFFF"
+            android:layout_margin="5dp"
             android:layout_weight="1" />
     </LinearLayout>
 </LinearLayout>
